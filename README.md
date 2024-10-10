@@ -1,4 +1,4 @@
-# Dados que contam história e revelam os impactos na saúde das mulheres atingidas pela violência
+# Dados que contam histórias e revelam os impactos na saúde das mulheres atingidas pela violência no Brasil
 
 ## Contexto
 Este projeto consiste na análise da violência contra a mulher nas bases de dados do Sistema Único de Saúde (SUS) especificamente do Boletim epidemiológico especial de março de 2023 com dados de 2019.
