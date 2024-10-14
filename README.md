@@ -17,13 +17,14 @@ Este projeto consiste na análise da violência contra a mulher nas bases de dad
    Limpar e estruturar os dados para a visualização.
 
 5. **Criar Visualizações no Tableau**  
-   Desenvolver gráficos que sintetizem os principais insights.
+   Desenvolver gráficos que sintetizem os principais insights. ( https://public.tableau.com/views/Dashboard_17288946794420/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
+
 
 6. **Preparar Apresentação Final**  
-   Apresentar o tema, dados e visualizações de forma clara e objetiva.
+   Apresentar o tema, dados e visualizações de forma clara e objetiva. ( https://www.canva.com/design/DAGTekzWeN0/UQLgKEgF6hiMI5dTFVwLaA/view?utm_content=DAGTekzWeN0&utm_campaign=designshare&utm_medium=link&utm_source=editor )
 
 ## Bases Escolhidas
-- **Base 1:** Dados da Pesquisa Nacional de Saúde (PNS) 2019, IBGE.
+- **Base 1:** Dados da Pesquisa Nacional de Saúde (PNS) 2019, IBGE, SUS.
 
 ## Objetivo Geral:
 Realizar uma análise dos dados com o objetivo de entender como os dados da PNS podem fornecer insights sobre a violência contra mulheres, visando contribuir para soluções mais eficazes no enfrentamento da violência contra a mulher.
@@ -38,3 +39,4 @@ Realizar uma análise dos dados com o objetivo de entender como os dados da PNS 
 - **Python (Jupyter Notebook):** Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib.
 - **Tableau:** Para criar as visualizações finais e apresentar os insights gerados.
 - **GitHub:** Para versionamento do projeto e documentação.
+- **Canva** Para criação da apresentação.
